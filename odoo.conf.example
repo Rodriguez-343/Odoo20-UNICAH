@@ -1,0 +1,8 @@
+[options]
+admin_passwd = CAMBIAR_CLAVE_MAESTRA
+db_host = 127.0.0.1
+db_port = 5433
+db_user = odoo
+db_password = CAMBIAR_PASSWORD_POSTGRES
+addons_path = addons
+http_port = 8069
